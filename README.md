@@ -28,6 +28,3 @@ myfile.docx
 ## 环境要求
 - Python 3.x（推荐 3.7+）
 - 支持 Windows、macOS、Linux
-
-## 许可证
-[MIT License](LICENSE)
